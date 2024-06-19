@@ -26,7 +26,7 @@
     "@babel/plugin-proposal-decorators": "*",
     "@mdi/js": "*",
     "@rollup/plugin-babel": "*",
-    "@rollup/plugin-commonjs": "*",
+    "@rollup/plugin-commonjs": "26.0.0",
     "@rollup/plugin-json": "*",
     "@rollup/plugin-node-resolve": "*",
     "@typescript-eslint/eslint-plugin": "*",
@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "@babel/cli": "*",
-    "@rollup/plugin-commonjs": "*"
+    "@rollup/plugin-commonjs": "26.0.0"
   }
 }
